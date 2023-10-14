@@ -11,4 +11,4 @@ Dashboard 4 publiclink-https://public.tableau.com/views/Dashboard4_1696910227534
 
 Story public link-https://public.tableau.com/views/Story1_16969105389980/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-Video demonstration https://docs.google.com/document/d/155V9czUOc5RIBUM4yHH7iUrU-1u5zNH2/edit?usp=drivesdk&ouid=107846948036662439118&rtpof=true&sd=true
+Video demonstration https://drive.google.com/file/d/1uuYu7iQoj-zbp763ZE0bahjsqLRn8y0Y/view?usp=drive_link
